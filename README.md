@@ -1,4 +1,4 @@
 personitude
 ===========
 
-"Serverless" social software
+"Serverless" social software, see http://personitude.org/
